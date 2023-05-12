@@ -1,3 +1,0 @@
-/home/papupupu/Learn_code/c++/cpp_yushiqi/class/build/CMakeFiles/main.dir
-/home/papupupu/Learn_code/c++/cpp_yushiqi/class/build/CMakeFiles/edit_cache.dir
-/home/papupupu/Learn_code/c++/cpp_yushiqi/class/build/CMakeFiles/rebuild_cache.dir
